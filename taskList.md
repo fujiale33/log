@@ -1,0 +1,9 @@
+- [ ] 制作 process on 网站的脚本
+- [ ] Selenium IDE 的其他组件可以继续研究测试一下
+- [ ] node + webdriver 研究一下
+- [ ] 完善各门课程简介
+- [ ] var b = 3 和 b = 3 两个等价，改一下脚本测试一下
+- [ ] 考虑制作 processOn 综合案例，开一门综合案例讲解的课程
+- [ ] 整理一下自动化测试的作业任务
+- [ ] 整理一下 Selenium IDE 最佳实践之类的资料，可以开一门课程
+- [ ] python + webdriver 解决作业评判问题
