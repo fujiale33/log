@@ -1,5 +1,6 @@
 - [ ] 完善 Selenium IDE web 自动化测试课程的作业任务
-- [ ] 录制 vimperator 高效上网课程
+- [ ] 制作 Github 开源社区之旅启程课程
+- [ ] 制作 vimperator 高效上网课程
 - [ ] 制作 ProcessOn 网站的脚本
 - [ ] Selenium IDE 的其他组件可以继续研究测试一下
 - [ ] node + webdriver 研究一下
