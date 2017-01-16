@@ -84,6 +84,7 @@
   - 3) 开发环境用的是 webstorm，关于工具的安装和使用，不做讲解  
   - 4) 前提基础 HTML, CSS, JavaScript, JQuery 不做讲解  
   - 5) 不适合按部就班的从头学习，适合快速体验和了解，请根据你的需要来学习本课程  
+  - 6) 课程中用的 JavaScript 语言是 ES6  
 - [ ] 学习并整理 HTML 5  
 - [ ] 学习并整理 CSS 3  
 - [ ] 学习并整理 JavaScript  
