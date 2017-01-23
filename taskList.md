@@ -109,8 +109,14 @@
   - 让 how-to-markdown 在本地跑起来  
   - 利用 nodeJS 和 npm 的知识，分析 package.json 文件  
   - 运行 npm install 安装依赖包  
-  - node index.js 居然没有跑起来  
+  - node index.js 跑起来了  
   - 看看 travis ci 上面的信息  
+  - 翻译了一部分资料  
+  - 运行 how-to-markdown 看到了翻译的效果  
+  - 给项目原创发了 issue  
+  - 下一步就是工作量的事情了  
+  - 评估工作量十二个主题，上午翻译了四个，这样三个半天全部翻译完  
+  - 记录结束  
   
 # 技术学习计划
 
