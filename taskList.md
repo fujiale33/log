@@ -2,8 +2,6 @@
 
 基本上一个月能出两门课程就很满足了，还要不断学习新的技术。
 
-- [ ] 准备录制 Github 开源社区之旅第二季： MarkDown 课程  
-  - 
 - [ ] Githhub 开源之旅第三季：Git 进阶  
   - Git 和 Github 工具  
     - 启程，初步的介绍了一下  
@@ -14,7 +12,34 @@
     - 其他细节，比如：SSH 协议，保存登录凭证等等  
     - Github 仓库的很多功能还没有介绍，issue、graph，pull request 等  
     - .gitignore 文件  
+    - alias 别名  
+    - Git GUI 工具  
     - 如何学习 Git 命令，常用命令掌握住，不常用的命令，第一次用到，百度搜索，搜索到之后一定要做好笔记  
+- [ ] 录制参与开源项目的课程《翻译 how-to-markdown》  
+  - 下面记录整个项目的参与过程：
+  - how-to-markdown 已经通关  
+  - 准备录制 MarkDown 方面的课程  
+  - Github 开源之旅系列课程，目标是让学员能够在开源社区参与项目  
+  - 目标，我需要先行一步  
+  - 翻译资料是一个简单的工作，可以去体验一下，发现 how-to-markdown 没有中文翻译  
+  - 从这个项目开始练手  
+  - 评估发现这个项目的活跃度挺高，作者经常在更新项目，我的意见可能会得到及时的反馈（如何评估，都变成问题）  
+  - 不知道如何下手翻译，开始依葫芦画瓢  
+  - javascripting 已经通关，而且知道这个项目是由中文翻译的  
+  - 根据我的 Git 以及 Github 的知识，从 javascripting 项目的提交历史快速了解到翻译项目的运作方式  
+  - 开始干吧  
+  - 首先，Fork how-to-markdown 项目  
+  - git clone how-to-markdown  
+  - 让 how-to-markdown 在本地跑起来  
+  - 利用 nodeJS 和 npm 的知识，分析 package.json 文件  
+  - 运行 npm install 安装依赖包  
+  - node index.js 跑起来了  
+  - 看看 travis ci 上面的信息  
+  - 翻译了一部分资料  
+  - 运行 how-to-markdown 看到了翻译的效果  
+  - 给项目原创发了 issue  
+  - 下一步就是工作量的事情了  
+  - 评估工作量十二个主题，上午翻译了四个，这样三个半天全部翻译完  
 - [ ] Github 开源之旅第四季：开源项目实战  
   - 以 how-to-markdown 项目为例进行讲解  
 - [ ] 可以讲一下 npm 包管理的课程  
@@ -68,6 +93,7 @@
 - [ ] 可以把软件测试课程的自动化测试章节、文档测试章节和 web 测试章节的内容录制一下  
 - [ ] 软件测试视频课程视频转文字  
   在淘宝上转了一个视频，1.5 小时，花了 100 元，转的质量还行，两章的教案都有了。
+- [x] 准备录制 Github 开源社区之旅第二季： MarkDown 课程  
 - [x] 准备录制软件测试大全的课程  
   - 根据 guru 网站上软件测试基础的文字资料整理教案  
   - **高梦瑶在做资料的初步翻译工作**  
@@ -113,32 +139,10 @@
 
 # 开源项目参与计划
 
-- [ ] 翻译 how-to-markdown  
-  - 下面记录整个项目的参与过程：
-  - how-to-markdown 已经通关  
-  - 准备录制 MarkDown 方面的课程  
-  - Github 开源之旅系列课程，目标是让学员能够在开源社区参与项目  
-  - 目标，我需要先行一步  
-  - 翻译资料是一个简单的工作，可以去体验一下，发现 how-to-markdown 没有中文翻译  
-  - 从这个项目开始练手  
-  - 不知道如何下手翻译，开始依葫芦画瓢  
-  - javascripting 已经通关，而且知道这个项目是由中文翻译的  
-  - 根据我的 Git 以及 Github 的知识，从 javascripting 项目的提交历史快速了解到翻译项目的运作方式  
-  - 开始干吧  
-  - 首先，Fork how-to-markdown 项目  
-  - git clone how-to-markdown  
-  - 让 how-to-markdown 在本地跑起来  
-  - 利用 nodeJS 和 npm 的知识，分析 package.json 文件  
-  - 运行 npm install 安装依赖包  
-  - node index.js 跑起来了  
-  - 看看 travis ci 上面的信息  
-  - 翻译了一部分资料  
-  - 运行 how-to-markdown 看到了翻译的效果  
-  - 给项目原创发了 issue  
-  - 下一步就是工作量的事情了  
-  - 评估工作量十二个主题，上午翻译了四个，这样三个半天全部翻译完  
-  - 记录结束  
-  
+- [ ] workshopper elementary-electron 只有日文没有中文翻译  
+- [ ] workshopper how-to-npm 没有中文翻译  
+- [x] 翻译 how-to-markdown  
+
 # 技术学习计划
 
 - [ ] 准备录制七天学会 NodeJS 的课程  
