@@ -4,6 +4,8 @@
 
 - [ ] Github 开源之旅第四季：团队协作  
 - [ ] Github 开源之旅第五季：开源项目实战  
+  - 内容以一个非常简单的 css stylish 项目入手  
+- [ ] Github 开源之旅第六季：开源项目实战  
   - 以 how-to-markdown 项目为例进行讲解  
   - 录制参与开源项目的课程《翻译 how-to-markdown》  
   - 下面记录整个项目的参与过程：
