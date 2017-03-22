@@ -3,3 +3,7 @@
 
 # 忽略 webstorm 创建的文件
 .idea/
+
+# 忽略 vim 的 wap 文件
+*.swp
+*.swo
