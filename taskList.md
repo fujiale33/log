@@ -6,33 +6,6 @@
 - [ ] Jekyll 方面的课程可以放到 Github 系列课程之中  
 - [ ] 准备录制信息科学基础下篇的课程   
 - [ ] 准备录制信息科学基础实验课，前提需要把实验的网站做出来  
-- [ ] Github 开源之旅第六季：how-to-markdown  
-  - 以 how-to-markdown 项目为例进行讲解  
-  - 录制参与开源项目的课程《翻译 how-to-markdown》  
-  - 下面记录整个项目的参与过程：
-  - how-to-markdown 已经通关  
-  - 准备录制 MarkDown 方面的课程  
-  - Github 开源之旅系列课程，目标是让学员能够在开源社区参与项目  
-  - 目标，我需要先行一步  
-  - 翻译资料是一个简单的工作，可以去体验一下，发现 how-to-markdown 没有中文翻译  
-  - 从这个项目开始练手  
-  - 评估发现这个项目的活跃度挺高，作者经常在更新项目，我的意见可能会得到及时的反馈（如何评估，都变成问题）  
-  - 不知道如何下手翻译，开始依葫芦画瓢  
-  - javascripting 已经通关，而且知道这个项目是由中文翻译的  
-  - 根据我的 Git 以及 Github 的知识，从 javascripting 项目的提交历史快速了解到翻译项目的运作方式  
-  - 开始干吧  
-  - 首先，Fork how-to-markdown 项目  
-  - git clone how-to-markdown  
-  - 让 how-to-markdown 在本地跑起来  
-  - 利用 nodeJS 和 npm 的知识，分析 package.json 文件  
-  - 运行 npm install 安装依赖包  
-  - node index.js 跑起来了  
-  - 看看 travis ci 上面的信息  
-  - 翻译了一部分资料  
-  - 运行 how-to-markdown 看到了翻译的效果  
-  - 给项目原创发了 issue  
-  - 下一步就是工作量的事情了  
-  - 评估工作量十二个主题，上午翻译了四个，这样三个半天全部翻译完  
 - [ ] 录制 JavaScript 开发系列课程
   - 第一季：导论
   - 第二季：基本语法
@@ -99,6 +72,33 @@
   - 翻译完成之后，顺一下，把课程的重点挑出来，制作成幻灯片，就可以录制课程了
   - 我的**主要工作量是资料解读和制作幻灯片上**，相对来说还是不太费事儿，整理材料加做幻灯片带录制完成大概需要半天的时间  
   - 前两个视频做出来了，已经开了头了  
+- [x] Github 开源之旅第六季：how-to-markdown  
+  - 以 how-to-markdown 项目为例进行讲解  
+  - 录制参与开源项目的课程《翻译 how-to-markdown》  
+  - 下面记录整个项目的参与过程：
+  - how-to-markdown 已经通关  
+  - 准备录制 MarkDown 方面的课程  
+  - Github 开源之旅系列课程，目标是让学员能够在开源社区参与项目  
+  - 目标，我需要先行一步  
+  - 翻译资料是一个简单的工作，可以去体验一下，发现 how-to-markdown 没有中文翻译  
+  - 从这个项目开始练手  
+  - 评估发现这个项目的活跃度挺高，作者经常在更新项目，我的意见可能会得到及时的反馈（如何评估，都变成问题）  
+  - 不知道如何下手翻译，开始依葫芦画瓢  
+  - javascripting 已经通关，而且知道这个项目是由中文翻译的  
+  - 根据我的 Git 以及 Github 的知识，从 javascripting 项目的提交历史快速了解到翻译项目的运作方式  
+  - 开始干吧  
+  - 首先，Fork how-to-markdown 项目  
+  - git clone how-to-markdown  
+  - 让 how-to-markdown 在本地跑起来  
+  - 利用 nodeJS 和 npm 的知识，分析 package.json 文件  
+  - 运行 npm install 安装依赖包  
+  - node index.js 跑起来了  
+  - 看看 travis ci 上面的信息  
+  - 翻译了一部分资料  
+  - 运行 how-to-markdown 看到了翻译的效果  
+  - 给项目原创发了 issue  
+  - 下一步就是工作量的事情了  
+  - 评估工作量十二个主题，上午翻译了四个，这样三个半天全部翻译完  
 - [x] Gitbook 制作  
 - [x] stylish：网站一键换肤  
   - 内容以一个非常简单的 css stylish 项目入手  
