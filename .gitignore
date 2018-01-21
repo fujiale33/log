@@ -1,9 +1,0 @@
-# 忽略 HBuilder 创建的 .project 文件
-.project
-
-# 忽略 webstorm 创建的文件
-.idea/
-
-# 忽略 vim 的 wap 文件
-*.swp
-*.swo
